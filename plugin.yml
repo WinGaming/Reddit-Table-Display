@@ -1,0 +1,9 @@
+name: SpigotTableDisplay
+version: 1.0 Alpha
+main: eu.spiforge.reddit.table.TableDisplay
+
+api-version: 1.16
+
+commands:
+  table:
+    usage: /<command>
